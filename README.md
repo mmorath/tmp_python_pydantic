@@ -1,3 +1,7 @@
+# What is it about  #
+A simple example how to use pydantic https://pydantic-docs.helpmanual.io/
+...some intresting links https://github.com/squidfunk/mkdocs-material
+
 # What do you need to play around #
 
 1. Computer any type
