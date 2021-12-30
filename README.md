@@ -1,6 +1,11 @@
 # What is it about  #
 A simple example how to use pydantic https://pydantic-docs.helpmanual.io/
-...some intresting links https://github.com/squidfunk/mkdocs-material
+...some intresting links 
+ * https://github.com/squidfunk/mkdocs-material
+ * https://www.youtube.com/watch?v=X-LbOBAd-xg
+ * https://www.youtube.com/watch?v=0pYN6Z-t1-s 
+ * https://www.youtube.com/watch?v=b4iFyrLQQh4  Spinx 
+ * https://www.youtube.com/watch?v=0YUdYk5E-w4  #6: Python Docstrings | Python Best Practices
 
 # What do you need to play around #
 
